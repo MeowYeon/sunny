@@ -1,0 +1,18 @@
+# baseURL = "https://meowyeon.github.io/sunny/"
+baseURL = "http://localhost:1313/"
+
+title = "烟野夜言"
+theme = "hugo-book"
+
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[params]
+  BookSection = '*'
+  BookRepo = "https://github.com/meowyeon/sunny/"
+
