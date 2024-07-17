@@ -1,14 +1,14 @@
 {
   "name": "烟野夜言",
   "short_name": "烟野夜言",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/sunny/",
+  "scope": "/sunny/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/sunny/favicon.svg",
       "sizes": "512x512"
     }
   ]
